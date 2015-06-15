@@ -1,0 +1,442 @@
+glioma	GSK3aß 
+pancreatic-cancer	VEGF
+breast-cancer	p53 
+pancreatic-cancer	GAS
+breast-cancer	ER 
+leukemia	PML
+breast-cancer	SCD1 
+breast-cancer	ATM 
+pancreatic-cancer	TEM7
+pancreatic-cancer	EREG
+leukemia	AML 
+leukemia	ZAP70 
+leukemia	TAL2
+leukemia	IRF1
+breast-cancer	proteins 
+leukemia	GLI2
+leukemia	DMD 
+breast-cancer	PTEN 
+breast-cancer	MAP3K1
+pancreatic-cancer	EGF
+glioma	microRNA 
+pancreatic-cancer	PRG1
+pancreatic-cancer	hMLH1 
+pancreatic-cancer	RABIF
+leukemia	PBX3
+leukemia	chronic myelogenous leukemia 
+breast-cancer	BRCA2 
+glioma	VEGF 
+breast-cancer	CASP8
+leukemia	HNRNPR 
+leukemia	breast cancer 
+pancreatic-cancer	PALB2 
+leukemia	leukemia 
+pancreatic-cancer	SDC1
+breast-cancer	NFATC2 
+breast-cancer	breast cancer 
+leukemia	leukemia 
+glioma	GLIPR1
+pancreatic-cancer	TNFRSF6
+glioma	astrocytoma 
+pancreatic-cancer	HIF-1a 
+leukemia	PBX1
+glioma	TSC2 
+leukemia	BCR\96ABL1 
+pancreatic-cancer	ACVR1B
+pancreatic-cancer	SPINT2
+pancreatic-cancer	PSCA
+pancreatic-cancer	MTA1
+breast-cancer	BRCA1 
+breast-cancer	breast cancer 
+leukemia	DEK
+leukemia	ZRSR2 
+glioma	HRK 
+leukemia	SEPT10 
+glioma	CXCL4 
+leukemia	CAV1
+pancreatic-cancer	hMSH6 
+leukemia	ZAP70 
+glioma	S100A9 
+breast-cancer	p53 
+breast-cancer	estrogen 
+pancreatic-cancer	MIAPaCa-2 
+glioma	CD56 
+pancreatic-cancer	Zeb-1 
+pancreatic-cancer	tumor-selective amino acid transporters 
+leukemia	TCL1 
+leukemia	MADH5
+pancreatic-cancer	TXN
+glioma	glioma 
+pancreatic-cancer	KRAS2
+pancreatic-cancer	GABAB 
+breast-cancer	tATM 
+pancreatic-cancer	ZNF146
+glioma	GPX3 
+glioma	astrocytoma 
+glioma	AKTpThr308 
+breast-cancer	tumor bed 
+breast-cancer	rs4973768
+pancreatic-cancer	polo-like kinase 1 
+pancreatic-cancer	TSLC1
+glioma	p38 
+breast-cancer	HER2 amplification 
+pancreatic-cancer	hMLH3 
+breast-cancer	TNRCP
+leukemia	MLLr 
+pancreatic-cancer	MET
+glioma	glioma 
+leukemia	FOXO3A
+glioma	epidermal growth factor receptor 
+pancreatic-cancer	SCYB14
+glioma	glioma 
+glioma	4EBP1(Ser65) 
+breast-cancer	NFAT3 
+leukemia	NOTCH3
+pancreatic-cancer	palladin (PALLD) 
+glioma	TIMP1 
+breast-cancer	Breast cancer 
+leukemia	EVI2B
+pancreatic-cancer	SST
+glioma	GLI1
+leukemia	CBF 
+breast-cancer	Dab2 protein 
+glioma	FAK 
+pancreatic-cancer	GUSB
+pancreatic-cancer	TFF2
+pancreatic-cancer	p53 
+pancreatic-cancer	RB1
+pancreatic-cancer	PLAUR
+glioma	glioma 
+glioma	glioma 
+glioma	gliomas 
+leukemia	TCL6
+pancreatic-cancer	nitroreductase gene 
+pancreatic-cancer	MADH4
+leukemia	CDX2
+pancreatic-cancer	Hs766T 
+leukemia	ALL 
+pancreatic-cancer	K-RAS 
+pancreatic-cancer	SU86.86 
+pancreatic-cancer	TMPRSS4
+leukemia	LAF4
+breast-cancer	breast cancers 
+pancreatic-cancer	ADAMTS1 
+breast-cancer	Prognostic biomarkers 
+pancreatic-cancer	14-3-3? 
+leukemia	PML/RARalpha 
+leukemia	LCP1
+glioma	N-myc downstream regulated gene 2 
+breast-cancer	TP53
+glioma	CD133 
+breast-cancer	BRCA1 
+glioma	O(6)-methylguanine-DNA methyltransferase 
+breast-cancer	growth factor-B (TGF-B) 
+glioma	NFIA 
+breast-cancer	replication 
+glioma	Bcl-2 
+breast-cancer	p38 
+leukemia	U2AF1 
+leukemia	BTG1
+glioma	oligodendrogliomas, 
+glioma	phosphorylated retinoblastoma protein 
+pancreatic-cancer	(HIF-1a) protein 
+leukemia	LARG 
+glioma	MMP9 
+breast-cancer	fast-growing and/or fast-replicating cancer cells 
+breast-cancer	growth factor receptors 
+pancreatic-cancer	miR-155 
+leukemia	leukemogenesis 
+leukemia	CEBPA
+leukemia	Cluster center genes 
+leukemia	CBF 
+pancreatic-cancer	PALB2 protein 
+leukemia	CBFB
+leukemia	THRA
+glioma	glioblastoma 
+leukemia	BCR-ABL+ 
+pancreatic-cancer	hMLH1 
+leukemia	BAX
+breast-cancer	breast cancers 
+glioma	glioma 
+glioma	TIMP3 
+glioma	GLTSCR2
+leukemia	leukemic cells 
+pancreatic-cancer	MMP3
+glioma	NKCC1 
+glioma	pilocytic astrocytomas 
+leukemia	RAB7
+leukemia	GMPS
+breast-cancer	PALB2
+leukemia	MLLT2
+glioma	GLTSCR1
+pancreatic-cancer	(PaC) 
+glioma	oligoastrocytomas 
+leukemia	E2A\96PBX1 
+glioma	phosphatidylinositol 3-kinase 
+glioma	CXCL9 
+breast-cancer	estrogen receptors 
+glioma	nucleic acids 
+glioma	matrix metalloproteinase 9 
+breast-cancer	EGFR 
+pancreatic-cancer	GPI
+breast-cancer	NFAT3 
+leukemia	ARNT
+breast-cancer	PR+ 
+glioma	breast cancer 
+glioma	glioma 
+pancreatic-cancer	TGF-ß type II receptor 
+pancreatic-cancer	FHIT
+breast-cancer	BRCA2 
+pancreatic-cancer	ERBB2
+pancreatic-cancer	VEGFC
+glioma	Glioblastoma 
+glioma	gliomas 
+breast-cancer	BRCA1 
+glioma	PCBP2 
+glioma	DKK3
+breast-cancer	ER 
+pancreatic-cancer	HIF-1a 
+leukemia	miRNAs 
+glioma	oncometabolites 
+pancreatic-cancer	MADH6
+glioma	cytoskeletal proteins 
+leukemia	MLL3
+breast-cancer	p21-activated kinase 
+leukemia	chronic myelomonocytic leukemia 
+breast-cancer	CHEK2
+breast-cancer	BRIP1
+leukemia	ADAM29 
+leukemia	LPL 
+glioma	NF-?B RelB 
+leukemia	PML/RARalpha 
+breast-cancer	LSP1
+leukemia	CLC
+leukemia	HOX11
+breast-cancer	FGFR2
+leukemia	NFKB2
+glioma	BadpSer136 
+breast-cancer	pan-cytokeratin 
+leukemia	CDC23
+breast-cancer	nATM 
+pancreatic-cancer	PCD1
+glioma	MGMT 
+leukemia	MicroRNAs 
+leukemia	CLL 
+glioma	oligoastrocytoma 
+leukemia	MYC
+glioma	ephrin B3 
+breast-cancer	ataxia telangiectasia mutated
+pancreatic-cancer	RNASE1
+glioma	IDH 
+leukemia	ATL 
+breast-cancer	Dab2 
+pancreatic-cancer	MDM2
+glioma	glial fibrillary acidic protein 
+breast-cancer	breast cancer 
+breast-cancer	Lipocalin 2 
+breast-cancer	genetic material 
+pancreatic-cancer	AGTR1
+pancreatic-cancer	MAP2K4
+pancreatic-cancer	PTGS2
+pancreatic-cancer	Vitamin D 
+leukemia	PITX2
+breast-cancer	breast cancers 
+leukemia	B-ALL 
+pancreatic-cancer	PRKCA
+pancreatic-cancer	TP53
+breast-cancer	BRCA2
+glioma	CD44 
+pancreatic-cancer	EPHB2
+glioma	c-Abl 
+leukemia	leukemia 
+breast-cancer	lymph nodes 
+leukemia	ETS1
+glioma	biomarker 
+breast-cancer	serine/threonine protein kinase ataxia telangiectasia mutated 
+leukemia	Chronic myeloid leukemia 
+breast-cancer	breast cancer 
+glioma	poly(C)-binding protein 
+leukemia	Core binding factor genes 
+pancreatic-cancer	RAD51
+breast-cancer	p53 
+pancreatic-cancer	ABCB1
+pancreatic-cancer	microRNAs 
+leukemia	EVI2A
+pancreatic-cancer	nitroreductase 
+breast-cancer	ER- 
+pancreatic-cancer	hMLH1 
+pancreatic-cancer	EP300
+glioma	GBM 
+leukemia	HPIP 
+glioma	drug targets 
+glioma	GSK3ß 
+pancreatic-cancer	neoplastic cell gene 
+leukemia	TCF7 
+leukemia	ATM 
+breast-cancer	csATM 
+leukemia	ATM 
+pancreatic-cancer	L3.6pl 
+glioma	Glioblastoma 
+leukemia	acute myeloid leukemia 
+leukemia	RUNX1
+glioma	glioblastomas 
+pancreatic-cancer	IRS1
+glioma	Leucine 
+glioma	osteopontin 
+breast-cancer	PTEN genes
+glioma	NF?ßp65 
+pancreatic-cancer	MYC
+glioma	CD24 
+pancreatic-cancer	NTRK1
+breast-cancer	Ataxia telangiectasia mutated 
+leukemia	NOTCH1
+glioma	glioblastoma multiforme 
+leukemia	LMO1
+leukemia	CLL 
+pancreatic-cancer	RPS6KB2
+leukemia	KIT
+leukemia	HIF-1 
+glioma	glioma 
+leukemia	BCR-ABL+ 
+breast-cancer	Chemotherapy 
+leukemia	ARHGEF12
+breast-cancer	5417 phosphatidyl inositol-3 kinase 
+leukemia	PML/RARalpha 
+leukemia	Pin1 enzyme 
+breast-cancer	breast cancers 
+glioma	pancreatic cancer 
+glioma	LGI1
+pancreatic-cancer	SLC7A5 
+breast-cancer	BRCA1 
+breast-cancer	BRCA1 
+leukemia	leukemias 
+glioma	AKT 
+glioma	mRNAs 
+pancreatic-cancer	TM4SF5
+pancreatic-cancer	Plk1 
+leukemia	CBF?-MYH11 
+glioma	Isocitrate Dehydrogenase 
+pancreatic-cancer	Rad51 
+pancreatic-cancer	helix-loop-helix (HLH) 
+breast-cancer	NFAT1 
+pancreatic-cancer	MEN1
+pancreatic-cancer	EGFR
+breast-cancer	BRCA2 
+breast-cancer	PIK3A 
+breast-cancer	BRCA2 
+breast-cancer	IGF-1R 
+pancreatic-cancer	GLRX
+pancreatic-cancer	FGFR1
+breast-cancer	BRCA1 
+glioma	S100A8 
+glioma	c-Myc 
+glioma	autotaxin 
+pancreatic-cancer	pancreatic juice HIP/PAP-I 
+leukemia	AF10
+leukemia	MTCP1
+leukemia	HTLV-I encoded protein 
+breast-cancer	NFAT5 
+breast-cancer	BRCA1 
+pancreatic-cancer	KRT20
+pancreatic-cancer	miR-210 
+glioma	glioblastoma 
+pancreatic-cancer	RELA
+leukemia	TCL1B
+glioma	Src 
+breast-cancer	Dab2 
+leukemia	MLL rearrangements 
+glioma	A2B5 
+breast-cancer	BRCA1 
+leukemia	CDH17
+glioma	Malignant glioma 
+glioma	pRB 
+glioma	astrocytomas 
+leukemia	BCL6
+leukemia	Leukemia 
+breast-cancer	BRCA1 
+leukemia	leukemia 
+glioma	Glioma 
+breast-cancer	BRCA2 
+leukemia	PBX2
+breast-cancer	BRCA2 
+breast-cancer	NFATc4 
+leukemia	AML 
+breast-cancer	BRCA2 
+leukemia	SET
+pancreatic-cancer	HPSE
+pancreatic-cancer	microRNA (miRNA) 
+pancreatic-cancer	MMP2
+leukemia	AXL
+glioma	glioblastoma 
+glioma	CD15 
+leukemia	leukemic blasts 
+leukemia	HBZ 
+glioma	CALU 
+pancreatic-cancer	ß4 integrin 
+leukemia	LYL1
+leukemia	NUP214
+glioma	EGFRpTyr845 
+glioma	bovine GFAP 
+leukemia	BCR-ABL1 
+glioma	glioblastoma 
+leukemia	HPIP 
+pancreatic-cancer	hMSH3 
+pancreatic-cancer	miR-210 
+pancreatic-cancer	ID2
+leukemia	HOXA9
+leukemia	SF3B1 
+leukemia	CML 
+pancreatic-cancer	hepatocarcinoma-intestine-pancreas/pancreatitis-associated-protein 
+leukemia	AML 
+leukemia	NUP98
+pancreatic-cancer	HIF-1-inducible genes 
+leukemia	SP140
+glioma	GBM 
+pancreatic-cancer	MPanc96 
+pancreatic-cancer	NME1
+leukemia	CMML 
+pancreatic-cancer	hMLH1 gene 
+glioma	APPL2 
+pancreatic-cancer	a-MT 
+pancreatic-cancer	S100A6 
+pancreatic-cancer	hMSH3 
+glioma	Na+-K+-Cl- cotransporter 1 
+leukemia	MLLT3
+glioma	IGFBP5 
+breast-cancer	BRCA1 
+leukemia	AML 
+pancreatic-cancer	NTSR1
+glioma	oligodendroglioma 
+breast-cancer	ATM
+pancreatic-cancer	S100P 
+leukemia	DLEU2
+leukemia	RGS2
+breast-cancer	extracellular signal-regulated kinase 
+breast-cancer	breast cancer 
+breast-cancer	ATM 
+pancreatic-cancer	ADAM8 
+breast-cancer	ERa inhibitor drugs 
+leukemia	PBXP1
+leukemia	CR1
+pancreatic-cancer	UCHL1
+glioma	Role of Nuclear Factor I A 
+leukemia	SRSF2 
+glioma	CD184 
+leukemia	MOV10L1
+leukemia	TRA
+pancreatic-cancer	HIF-1a 
+leukemia	ZNFN1A1
+leukemia	proteomics 
+breast-cancer	breast cancer 
+glioma	glioma 
+pancreatic-cancer	Id2 
+leukemia	CD37 
+leukemia	leukemogenesis 
+breast-cancer	proteins 
+pancreatic-cancer	MAP3K1
+leukemia	TF gene 
+pancreatic-cancer	E-cadherin 
+glioma	Glioma 
+pancreatic-cancer	KAI1
+breast-cancer	BRCA1
+breast-cancer	PR 
