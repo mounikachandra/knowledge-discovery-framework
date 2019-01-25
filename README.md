@@ -6,4 +6,4 @@ Languages & Technology used: Java, Stanford Classifier, Natural Language Process
 
 ![screen shot 2019-01-24 at 8 35 18 pm](https://user-images.githubusercontent.com/12842789/51723812-c6040680-2017-11e9-951a-4444eb64e2f9.png)
 
-![screen shot 2019-01-24 at 8 35 18 pm](https://user-images.githubusercontent.com/12842789/51723812-c6040680-2017-11e9-951a-4444eb64e2f9.png)
+![screen shot 2019-01-24 at 8 35 18 pm](https://user-images.githubusercontent.com/12842789/51723860-e8961f80-2017-11e9-9843-87f85b7a2dc0.png)
